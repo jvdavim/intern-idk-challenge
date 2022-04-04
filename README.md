@@ -27,10 +27,10 @@ The challenge is composed of two major stages.
 - We strongly recommend you to search for solutions on google or any other search engine. Your hability to adapt and get advantage of someone else's solution will be evaluated too. Pay attention to the licenses, and don't forget to document the credits. Again, if you don't know what is a license and how it works, this is a great chance to learn.
 
 ## Evaluation Criteria
-* Python skills - How the candidate knows python?
+* Python skills - How well does the candidate knows python?
 * Git skills - How the candidate knows git?
-* Machine learning skills - What the candidate knows about machine learning?
+* Machine learning skills - What does the candidate knows about machine learning?
 * Documentation quality - How easy is to understand the project following the documentation?
 * Code quality - Does the candidate follows best pratices and patterns?
 * Organization - How does the candidate organized the project? Is it easy to understand the project's folder structure? How the training, evaluation and deployment codes are organized in the project?
-* Transparency - Is the solution presenting the respective credits and referencing what is of someone else's author?
+* Transparency - Is the solution presenting the respective credits and referencing what was done by another author?
