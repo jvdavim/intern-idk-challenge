@@ -16,7 +16,7 @@ the last section. The rules and instructions are in the sections bellow.
 The challenge is composed of two major stages.
 
 1. Train an supervised image classification machine learning model.
-    - Download the `archive.zip` file and unzip it in a folder of your choice.
+    - Download the `archive.zip` file from [https://drive.google.com/drive/folders/1rXZHeOh6Xv_uaKZIRVCQfrrAiY5_iqQX?usp=sharing] and unzip it in a folder of your choice.
     - Develop a python script to train and evaluate a machine learning algorithm to classify the flowers. It's up to you the choice of the machine learning library or framework to run the experiments. It must be clear how to run the experiments on the documentation.
     - You need to generate artifact(s) from the experiment so the model can be recovered from disk later.
 
