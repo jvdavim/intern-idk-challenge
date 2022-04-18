@@ -20,7 +20,7 @@ The challenge is composed of two major stages.
     - Develop a python script to train and evaluate a machine learning algorithm to classify the flowers. It's up to you the choice of the machine learning library or framework to run the experiments. It must be clear how to run the experiments on the documentation.
     - You need to generate artifact(s) from the experiment so the model can be recovered from disk later.
 
-2. Deploy the model so it can be used by other users and systems.
+2. Create a documentation to deploy the model so it can be used by other users and systems.
     - With the artifact(s) generated on the previous stage, you have to create a service that can be consumed by other users and systems in real time. The framework is up to the user.
     - The documentation should have clear instructions about how to deploy the service. It doesn't need to be deployed, but must any user must be able to deploy it following the documnetation.
 
